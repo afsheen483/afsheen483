@@ -4,11 +4,11 @@ ML Engineer and Researcher with 5+ years of software engineering experience, now
 
 ## What I'm working on
 
-🧠 **Clinical ML** — building a personalized depression treatment recommendation system using large-scale population health data (NHANES), modeling pharmacological and neuromodulation treatment pathways.
+🧠 **Clinical ML.** Building a personalized depression treatment recommendation system using large-scale population health data (NHANES), modeling pharmacological and neuromodulation treatment pathways.
 
-🛰️ **Computer Vision** — designing deep learning architectures for land-use and land-cover classification on satellite imagery, combining attention mechanisms with multi-scale feature extraction.
+🛰️ **Computer Vision.** Designing deep learning architectures for land-use and land-cover classification on satellite imagery, combining attention mechanisms with multi-scale feature extraction.
 
-🧬 **Evolutionary Computation** — studying how changing environments drive structural modularity in evolving systems, using large-scale HPC simulations.
+🧬 **Evolutionary Computation.** Studying how changing environments drive structural modularity in evolving systems, using large-scale HPC simulations.
 
 Before research, I spent 5+ years building production systems: REST APIs, financial platforms, and full-stack web applications used by real clients and hundreds of daily users.
 
